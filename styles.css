@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  color: white;
+  text-align: center;
+  background: black;
+}
+
+.wrap {
+  padding: 40px;
+  background: rgba(0,0,0,0.7);
+}
+
+button {
+  background: #00c3ff;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  cursor: pointer;
+}
